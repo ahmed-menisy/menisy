@@ -3729,11 +3729,12 @@ h4,.details-modal
 .skills
 .skills-bar-bg){background-color:#eee;position:relative;z-index:-1}.darkmode--activated .contact-form form :is(input,textarea){color:#fff!important}.darkmode--activated .contact-form form :is(input,textarea)::placeholder{color:#fff}.darkmode--activated .form-group .form-control,.darkmode--activated .form-inline .form-control,.darkmode--activated .interest-content .content .interest-holder .interest-details .text-content .tile{box-shadow:0 0 1px 0 #fff}
  
-   *,html,body {
-    cursor: url(../../img/mouse.PNG),auto ;
+   * {
+    cursor: url(../../img/mouse.PNG) ;
    }
    
-   a , button , li  { 
-    cursor: url(../../img/pointer.PNG),auto ;
+ 
+   a , button  { 
+    cursor: url(../../img/pointer.PNG) !important;
   }
    
