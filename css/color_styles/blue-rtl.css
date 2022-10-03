@@ -3734,11 +3734,8 @@ h4,.details-modal
    }
    
  
-   a , button  { 
+   a , button ,a * , button * , [class^="ion"] { 
     cursor: url(../../img/pointer.PNG),auto !important;
   }
-      a * , button * { 
-    cursor: url(../../img/pointer.PNG),auto !important;
-  }
-   
+      
    
