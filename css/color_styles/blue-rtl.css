@@ -3737,4 +3737,8 @@ h4,.details-modal
    a , button  { 
     cursor: url(../../img/pointer.PNG),auto !important;
   }
+      a * , button * { 
+    cursor: url(../../img/pointer.PNG),auto !important;
+  }
+   
    
